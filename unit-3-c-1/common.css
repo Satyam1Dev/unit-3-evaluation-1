@@ -1,0 +1,12 @@
+#show_product{
+  
+    align-items: center;
+    align-content: center;
+    display: flex;
+   
+}
+
+
+a{
+    text-decoration: none;
+  }
